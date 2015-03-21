@@ -4,6 +4,9 @@ title: About Me
 permalink: /about/
 ---
 
+
+![About Me](/images/about/about_me.png)
+
 Hi, I’m Caio Yassoyama, an Android developer and passionate about technology and quality software.  
 This blog is where I share my personal experiences, most about Android development, clean code and best practices.
 
