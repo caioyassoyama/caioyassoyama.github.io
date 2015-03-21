@@ -1,41 +1,41 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Caio Yassoyama
+email:       caio.yassoyama@gmail.com
+author:      Caio Yassoyama
+description: "About Android programming"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://caioyassoyama.github.io"
 
 # Google analytics
-google_analytics:
+google_analytics: UA-57913256-1
 
 # Optional features
-animated:           false
-show_related_posts: false
+animated:           true
+show_related_posts: true
 show_post_footers:  false
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname:
+disqus_shortname: caioyassoyama
 
 # Social icons
-show_social_icons: false
-github_username:
-stackoverflow_id:
-twitter_username:
-google_plus_id:
-linkedin_username:
+show_social_icons: true
+github_username: caioyassoyama
+stackoverflow_id: 2001471
+twitter_username: caioyassoyama
+google_plus_id: +CaioYassoyama
+linkedin_username: caioyassoyama
 bitcoin_url:
 paypal_url:
 flattr_button:
 
 # Post sharing icons
-show_sharing_icons: false
+show_sharing_icons: true
 share_text: 'Share this post!'
 # Change to 'true' to enable individual icons
-share_facebook: false
-share_twitter: false
-share_googleplus: false
+share_facebook: true
+share_twitter: true
+share_googleplus: true
 share_linkedin: false
 share_digg: false
 share_tumblr: false
@@ -47,6 +47,6 @@ markdown:     redcarpet
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    pretty
-paginate:     3
+paginate:     5
 sass:
   compressed: true

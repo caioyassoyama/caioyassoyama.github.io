@@ -1,19 +1,11 @@
 ---
 layout: page
-title: About Pixyll
+title: About Me
 permalink: /about/
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+Hi, I’m Caio Yassoyama, an Android developer and passionate about technology and quality software.  
+This blog is where I share my personal experiences, most about Android development, clean code and best practices.
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
-
-Thanks to the following:
-
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Solarized](http://ethanschoonover.com/solarized)
+This blog is built with [Jekyll](http://jekyllrb.com/) and hosted on [Github Pages](https://pages.github.com/).  
+This Jekyll theme ([Pixyll](http://pixyll.com)) was crafted with <3 by [John Otander](http://johnotander.com).
